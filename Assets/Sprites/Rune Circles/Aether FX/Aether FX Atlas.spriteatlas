@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Aether FX Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 13
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 32
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5742e48a0de7b684399ff1f130a5d852, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -3692210371161618120, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: 840690112619200356, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: -4110904737213992516, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: 2236470751192049574, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: -5171268576375083155, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: 4631239111987665443, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: 382762178185879335, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: -2076232911870776354, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: 9004602895447006353, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: -4160545152601234144, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: 2205334699445029825, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: -336424785918997673, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: -6108112081830729012, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: -3978090863282660364, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: -8872359672130065959, guid: 8eeced41da45dbe48acbdf26f98c49e6, type: 3}
+  - {fileID: -1272969119840126162, guid: 837efe71cedfaff4e99c14b766150a98, type: 3}
+  - {fileID: -7910430202600508962, guid: 837efe71cedfaff4e99c14b766150a98, type: 3}
+  - {fileID: 5450025637883595855, guid: 837efe71cedfaff4e99c14b766150a98, type: 3}
+  - {fileID: -484479893304556031, guid: 837efe71cedfaff4e99c14b766150a98, type: 3}
+  - {fileID: -2792648317061568554, guid: 58b7da6493111f3488c48d42765dfa57, type: 3}
+  - {fileID: 2181640781724378921, guid: 58b7da6493111f3488c48d42765dfa57, type: 3}
+  - {fileID: -1398108495255465621, guid: 58b7da6493111f3488c48d42765dfa57, type: 3}
+  - {fileID: 4891805091292872040, guid: 58b7da6493111f3488c48d42765dfa57, type: 3}
+  - {fileID: -5877979351592246090, guid: 58b7da6493111f3488c48d42765dfa57, type: 3}
+  - {fileID: -66174689789733388, guid: 5f8ae4c9758d8e04faed6fd9ba39957e, type: 3}
+  - {fileID: 3886234046131324271, guid: 5f8ae4c9758d8e04faed6fd9ba39957e, type: 3}
+  - {fileID: 8257947005661352640, guid: 5f8ae4c9758d8e04faed6fd9ba39957e, type: 3}
+  - {fileID: -7427877963919219365, guid: 5f8ae4c9758d8e04faed6fd9ba39957e, type: 3}
+  - {fileID: -8318937074379501796, guid: 5f8ae4c9758d8e04faed6fd9ba39957e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Aether-FX-Steps_14
+  - Aether-FX-Steps_13
+  - Aether-FX-Steps_12
+  - Aether-FX-Steps_11
+  - Aether-FX-Steps_10
+  - Aether-FX-Steps_4
+  - Aether-FX-Steps_5
+  - Aether-FX-Steps_6
+  - Aether-FX-Steps_7
+  - Aether-FX-Steps_0
+  - Aether-FX-Steps_1
+  - Aether-FX-Steps_2
+  - Aether-FX-Steps_3
+  - Aether-FX-Steps_8
+  - Aether-FX-Steps_9
+  - Aether-FX-WhiteGlow_0
+  - Aether-FX-WhiteGlow_3
+  - Aether-FX-WhiteGlow_2
+  - Aether-FX-WhiteGlow_1
+  - Aether-FX-Glitters2_1
+  - Aether-FX-Glitters2_0
+  - Aether-FX-Glitters2_3
+  - Aether-FX-Glitters2_2
+  - Aether-FX-Glitters2_4
+  - Aether-FX-Glitters1_4
+  - Aether-FX-Glitters1_2
+  - Aether-FX-Glitters1_3
+  - Aether-FX-Glitters1_0
+  - Aether-FX-Glitters1_1
+  m_RenderDataMap: {}
+  m_Tag: Aether FX Atlas
+  m_IsVariant: 0

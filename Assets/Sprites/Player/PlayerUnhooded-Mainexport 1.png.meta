@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: 0b8202271d401564881c3126d37405c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6962722541749882852
+    second: PlayerUnhooded-Main-1
+  - first:
+      213: -86928663306417079
+    second: PlayerUnhooded-Idle1-2
+  - first:
+      213: 3325909092394564639
+    second: PlayerUnhooded-Mainexport 1_7
+  - first:
+      213: -2545714390559680467
+    second: PlayerUnhooded-Idle2-1
+  - first:
+      213: 7479456195209121903
+    second: PlayerUnhooded-Idle2-2
+  - first:
+      213: 6272992891175647635
+    second: PlayerUnhooded-Idle2-3
+  - first:
+      213: 6712185822187262366
+    second: PlayerUnhooded-Idle2-4
+  - first:
+      213: 8323701253420469033
+    second: PlayerUnhooded-Idle2-5
+  - first:
+      213: 9220382328751277065
+    second: PlayerUnhooded-Idle2-6
+  - first:
+      213: 1679891216328546136
+    second: PlayerUnhooded-Idle2-7
+  - first:
+      213: 5383121883685272398
+    second: PlayerUnhooded-Idle2-8
+  - first:
+      213: 1262645579966198742
+    second: PlayerUnhooded-Walk-1
+  - first:
+      213: -6831539651956860911
+    second: PlayerUnhooded-Walk-2
+  - first:
+      213: -6680218483688814064
+    second: PlayerUnhooded-Walk-3
+  - first:
+      213: 9082180373331584810
+    second: PlayerUnhooded-Walk-4
+  - first:
+      213: -4456725595484618532
+    second: PlayerUnhooded-Walk-5
+  - first:
+      213: -1357343657511032632
+    second: PlayerUnhooded-Walk-6
+  - first:
+      213: -5708380408464129130
+    second: PlayerUnhooded-Run-1
+  - first:
+      213: 3789932560370959036
+    second: PlayerUnhooded-Run-2
+  - first:
+      213: -7003008392497942644
+    second: PlayerUnhooded-Run-3
+  - first:
+      213: 3301300591831006150
+    second: PlayerUnhooded-Run-4
+  - first:
+      213: -8772486519807541988
+    second: PlayerUnhooded-Run-5
+  - first:
+      213: -3425199315296003963
+    second: PlayerUnhooded-Run-6
+  - first:
+      213: 7362041636280059252
+    second: PlayerUnhooded-Run-7
+  - first:
+      213: 5960621938596732894
+    second: PlayerUnhooded-Attack1-1
+  - first:
+      213: 3764833573401167460
+    second: PlayerUnhooded-Attack1-2
+  - first:
+      213: -182469973080056176
+    second: PlayerUnhooded-Attack1-3
+  - first:
+      213: 3845901339194920294
+    second: PlayerUnhooded-Attack1-4
+  - first:
+      213: -3880796017136574467
+    second: PlayerUnhooded-Attack1-5
+  - first:
+      213: -8651620376499776286
+    second: PlayerUnhooded-Attack1-6
+  - first:
+      213: 1062995428624987140
+    second: PlayerUnhooded-Attack1-7
+  - first:
+      213: -4106524510659553146
+    second: PlayerUnhooded-Attack2-1
+  - first:
+      213: 3622236594889020216
+    second: PlayerUnhooded-Attack2-2
+  - first:
+      213: -6598009364994271370
+    second: PlayerUnhooded-Attack2-3
+  - first:
+      213: -2189302720937831522
+    second: PlayerUnhooded-Attack2-4
+  - first:
+      213: 2177275602646494736
+    second: PlayerUnhooded-Attack2-5
+  - first:
+      213: 653022466634578672
+    second: PlayerUnhooded-Attack2-6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerUnhooded-Main-1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 162
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10b4650db07f5f90800000000000000
+      internalID: -6962722541749882852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Idle1-2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 162
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c42de57da2bcef0800000000000000
+      internalID: -86928663306417079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Mainexport 1_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 162
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c7b67b2b0082e20800000000000000
+      internalID: 3325909092394564639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Idle2-1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d281713ef3ecbacd0800000000000000
+      internalID: -2545714390559680467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Idle2-2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 130
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60d88c18cd5cc760800000000000000
+      internalID: 7479456195209121903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Idle2-3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 130
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399331d7cc52e0750800000000000000
+      internalID: 6272992891175647635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Idle2-4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 130
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9192ed4179762d50800000000000000
+      internalID: 6712185822187262366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Idle2-5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 130
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bc99a603ab38370800000000000000
+      internalID: 8323701253420469033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Idle2-6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 130
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904428650e065ff70800000000000000
+      internalID: 9220382328751277065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Idle2-7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 130
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857df8a292c205710800000000000000
+      internalID: 1679891216328546136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Idle2-8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 130
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b31bb05d0b4ba40800000000000000
+      internalID: 5383121883685272398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Walk-1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d33a171771d58110800000000000000
+      internalID: 1262645579966198742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Walk-2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 98
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1189d10b1ee7131a0800000000000000
+      internalID: -6831539651956860911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Walk-3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 98
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01acab1bea81b43a0800000000000000
+      internalID: -6680218483688814064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Walk-4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 98
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27247a1ee26a0e70800000000000000
+      internalID: 9082180373331584810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Walk-5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 98
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd08fb30fa78622c0800000000000000
+      internalID: -4456725595484618532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Walk-6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 98
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ecef822fb92de0800000000000000
+      internalID: -1357343657511032632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Run-1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69342b64342c7c0b0800000000000000
+      internalID: -5708380408464129130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Run-2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2099f659b889430800000000000000
+      internalID: 3789932560370959036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Run-3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 66
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa41678f050de90800000000000000
+      internalID: -7003008392497942644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Run-4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 66
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbbfd0b56390dd20800000000000000
+      internalID: 3301300591831006150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Run-5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 66
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df7f52dfdd14680800000000000000
+      internalID: -8772486519807541988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Run-6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 66
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ded6ce5f3770d0800000000000000
+      internalID: -3425199315296003963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Run-7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 66
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475cb18ccd93b2660800000000000000
+      internalID: 7362041636280059252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack1-1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf557a821268b250800000000000000
+      internalID: 5960621938596732894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack1-2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4668a0520306f3430800000000000000
+      internalID: 3764833573401167460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack1-3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 34
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e5368b68cb77df0800000000000000
+      internalID: -182469973080056176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack1-4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 34
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d89eb34e26f5530800000000000000
+      internalID: 3845901339194920294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack1-5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 34
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffd2d07594a42ac0800000000000000
+      internalID: -3880796017136574467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack1-6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 34
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e413371b154fe780800000000000000
+      internalID: -8651620376499776286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack1-7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 34
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4047e09d5b480ce00800000000000000
+      internalID: 1062995428624987140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack2-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d3b007b1b207c0800000000000000
+      internalID: -4106524510659553146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack2-2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833d7caddf4c44230800000000000000
+      internalID: 3622236594889020216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack2-3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677d0d6b0792f64a0800000000000000
+      internalID: -6598009364994271370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack2-4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9354b456c80e91e0800000000000000
+      internalID: -2189302720937831522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack2-5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e6ed9ff9c373e10800000000000000
+      internalID: 2177275602646494736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUnhooded-Attack2-6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa7a1a3970001900800000000000000
+      internalID: 653022466634578672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

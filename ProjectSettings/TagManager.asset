@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ally
+  - Enemy
+  - PlayerHead
+  - GameMusic
+  - MenuMusic
+  - NPC
+  - Quest1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Rune
+  - Tree
+  - Damageable
+  - Dead
+  - Player
+  - Objects
+  - Walls
+  - Ally
+  - Enemy
+  - Hints
+  - Items
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2007471495
+    locked: 0
+  - name: Objects
+    uniqueID: 988539203
+    locked: 0
+  - name: UI
+    uniqueID: 1225816137
+    locked: 0
+  - name: Enemies
+    uniqueID: 394979179
+    locked: 0
+  - name: NPC
+    uniqueID: 2451141801
+    locked: 0
+  - name: Player
+    uniqueID: 2331718955
+    locked: 0
+  - name: Tree
+    uniqueID: 3144364223
+    locked: 0
+  - name: Monolisk
+    uniqueID: 954515797
+    locked: 0

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bartholomeo Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 13
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 32
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b5ba062af8d589b4fbd52850379e8098, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 6539235571595854134, guid: c35f95b44515af9499ada06f3733544f, type: 3}
+  - {fileID: 923098390840734034, guid: c35f95b44515af9499ada06f3733544f, type: 3}
+  - {fileID: -5593776017111846414, guid: c35f95b44515af9499ada06f3733544f, type: 3}
+  - {fileID: 4615212363719023707, guid: c35f95b44515af9499ada06f3733544f, type: 3}
+  - {fileID: -6423035493457481213, guid: c35f95b44515af9499ada06f3733544f, type: 3}
+  - {fileID: 9060587235595254105, guid: c35f95b44515af9499ada06f3733544f, type: 3}
+  - {fileID: -4765387291985539856, guid: c2c30f9ef4ba0a94a80cd57beab5c819, type: 3}
+  - {fileID: -6273503354629515866, guid: c2c30f9ef4ba0a94a80cd57beab5c819, type: 3}
+  - {fileID: -4637705504398645660, guid: c2c30f9ef4ba0a94a80cd57beab5c819, type: 3}
+  - {fileID: 3089346871483275193, guid: c2c30f9ef4ba0a94a80cd57beab5c819, type: 3}
+  - {fileID: 5643029516769037678, guid: c2c30f9ef4ba0a94a80cd57beab5c819, type: 3}
+  - {fileID: -6625739700832490258, guid: c2c30f9ef4ba0a94a80cd57beab5c819, type: 3}
+  - {fileID: -2505887367821281503, guid: c2c30f9ef4ba0a94a80cd57beab5c819, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Kapre-Sheet-Idle-Left_2
+  - Kapre-Sheet-Idle-Left_3
+  - Kapre-Sheet-Idle-Left_0
+  - Kapre-Sheet-Idle-Left_1
+  - Kapre-Sheet-Idle-Left_4
+  - Kapre-Sheet-Idle-Left_5
+  - Kapre-Sheet-Walk_6
+  - Kapre-Sheet-Walk_5
+  - Kapre-Sheet-Walk_4
+  - Kapre-Sheet-Walk_3
+  - Kapre-Sheet-Walk_2
+  - Kapre-Sheet-Walk_1
+  - Kapre-Sheet-Walk_0
+  m_RenderDataMap: {}
+  m_Tag: Bartholomeo Atlas
+  m_IsVariant: 0
